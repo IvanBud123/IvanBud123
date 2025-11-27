@@ -32,6 +32,7 @@
 ![VPN](https://img.shields.io/badge/VPN-007ACC?style=for-the-badge&logo=cisco&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![HTTPS](https://img.shields.io/badge/HTTPS-009688?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
 ## 💼 Work Experience
 
@@ -69,6 +70,23 @@
 
 ## 🏆 Projects
 
+### **🛡️ KBAHET VPN Service** - *DevOps Engineer*
+`Team of 5 | Russia's First Legal VPN`
+
+> **Project Concept**: The first legal VPN service in Russia that provides access only to websites and services blocked by the West, without violating Russian legislation and RosKomNadzor (RKN) regulations. The key feature is that we don't provide access to services prohibited by RKN.
+
+**My Contributions:**
+- 🌐 **nginx** configuration and reverse proxy setup
+- 🔒 **HTTPS** implementation and SSL certificate management
+- 🐳 **Docker** containerization and orchestration
+- 🚀 **CI/CD pipelines** setup and optimization
+- 🔄 **OpenVPN** deployment and configuration
+- 📡 **Split tunneling** implementation for selective traffic routing
+- 👥 Collaborated in a team of 5 developers
+
+**Tech Stack:**
+`Docker` `CI/CD` `nginx` `HTTPS/SSL` `OpenVPN` `Split Tunneling` `Linux` `Bash`
+
 ### **🧠 Moleculas AI** - *DevOps Junior Engineer*
 `Multi-AI Service Platform`
 
@@ -104,14 +122,10 @@
 
 <div align="center">
 
-### 📈 GitHub Stats
+### 📫 Let's Connect!
 
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanBud123&show_icons=true&theme=radical)
+🚀 **Open to new opportunities and collaborations!**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanBud123&layout=compact&theme=radical)
-
----
-
-⭐ **Feel free to reach out for collaboration!** ⭐
+💡 *Passionate about building robust infrastructure and automating everything*
 
 </div>
