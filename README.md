@@ -124,8 +124,6 @@
 
 ### 📫 Let's Connect!
 
-🚀 **Open to new opportunities and collaborations!**
-
-💡 *Passionate about building robust infrastructure and automating everything*
+🚀 **Open to new opportunities and collaborations!***
 
 </div>
