@@ -65,7 +65,7 @@
 
 ### **Lobachevsky State University of Nizhny Novgorod**
 `Sept 2024 - Present`  
-**Faculty of Computational Mathematics and Cybernetics**  
+**Faculty of Radiophysics, Information Security of Telecommunication Systems**  
 📊 **GPA: 4.3/5.0**
 
 ## 🏆 Projects
